@@ -73,6 +73,7 @@ h2{
 .previsao{
     color: #FFF;
     margin-left: 20px;
+    text-transform: capitalize;
 }
 
 .umidade{
